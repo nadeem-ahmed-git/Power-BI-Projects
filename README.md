@@ -1,6 +1,6 @@
 # Power-BI-Projects
 
-## 1. Power Bi Dashboard Project
+## 1. Credit Card Financial Dashboard Project
 
 Project Objective: To develop comprehensive credit card weekly dashboards that provide real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 Dataset - Financial Dataset
