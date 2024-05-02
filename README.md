@@ -3,15 +3,18 @@
 ## 1. Credit Card Financial Dashboard Project
 
 Project Objective: To develop comprehensive credit card weekly dashboards that provide real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+
 Dataset - Financial Dataset
 
 Steps:
-•Import CSV file into MySQL
-•DAX Queries
-•Prepared Dashboard
+• Import CSV file into MySQL
+• DAX Queries
+• Prepared Dashboard
 
 Insights:
+
 Dashboard 1 - Credit Card Transactions Weekly Report:
+
 1)	Revenue and Interest:
 i)	The total revenue is 55M with a total interest of 7.8M from an amount of 45M across 656K counts.
 ii)	Blue cards contribute the most to the revenue and total transactions, followed by Gold, Silver, and Platinum.
@@ -25,6 +28,7 @@ i)	Bills generate the highest revenue by expense type at 14M, followed by entert
 i)	Businessmen are the highest spending job category with a revenue of 17M.
 
 Dashboard 2 -  Credit Card Customer Weekly Report:
+
 1)	Revenue and Interest:
 i)	The total revenue is 55M with a total interest of 7.8M.
 ii)	The income is 576M.
