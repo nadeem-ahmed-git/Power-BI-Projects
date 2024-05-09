@@ -45,5 +45,30 @@ ii)	Income Groups: High-income groups generate the most revenue (22M).
 5)	Dependents:
 i)	Customers with four dependents contribute higher revenue compared to other groups.
 
---------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 2. HR Data Analytics Dashboard
+
+Project Objective: The objective of this project is to leverage data analysis techniques to understand employee attrition patterns within a company. By extracting, cleaning, and analyzing HR data, the project aims to identify key factors contributing to employee turnover. The insights derived from this analysis will inform the development of effective retention strategies, ultimately enhancing employee satisfaction and reducing costs associated with high attrition rates
+
+Dataset - HR Dataset
+
+Steps:
+• Import CSV file into MySQL
+• DAX Queries
+• Prepared Dashboard
+
+Insights:
+
+1. Employee Demographics: The dashboard shows a total of 1413 employees, with an average age of 37 years and an average tenure at the company of 7 years. The average salary is 6.5K.
+2. Attrition Overview: There is a total of 229 attritions, resulting in an attrition rate of 16.2%. This indicates that the company is experiencing a significant turnover rate.
+3. Attrition by Category:
+  Education: Attrition is highest among employees with a background in Life Sciences (38%) and Medical (25%) fields.
+  Job Role: Laboratory Technicians, Sales Executives, and Research Scientists have the highest attrition rates.
+  Salary: Most attritions occur within the ‘Upto 5k’ salary range, suggesting that salary may be a factor in employee turnover.
+  Years at Company: Attrition peaks at 1 year of tenure, indicating that new hires are more likely to leave.
+  Age: The ‘26-35’ age group experiences the highest attrition, which could be due to career progression or life changes.
+4. Gender Analysis: The detailed numbers for Attrition by Gender across different job roles suggest that there may be varying attrition patterns between male and female employees, which could warrant further investigation.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
