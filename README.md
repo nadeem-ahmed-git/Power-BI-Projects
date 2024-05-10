@@ -53,6 +53,8 @@ i)	Customers with four dependents contribute higher revenue compared to other gr
 
 ## 2. HR Data Analytics Dashboard
 
+![img](https://github.com/nadeem-ahmed-git/Power-BI-Projects/blob/main/HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard.png)
+
 Project Objective: The objective of this project is to leverage data analysis techniques to understand employee attrition patterns within a company. By extracting, cleaning, and analyzing HR data, the project aims to identify key factors contributing to employee turnover. The insights derived from this analysis will inform the development of effective retention strategies, ultimately enhancing employee satisfaction and reducing costs associated with high attrition rates
 
 Dataset - HR Dataset
