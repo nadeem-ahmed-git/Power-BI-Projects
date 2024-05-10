@@ -31,6 +31,8 @@ i)	Businessmen are the highest spending job category with a revenue of 17M.
 
 Dashboard 2 -  Credit Card Customer Weekly Report:
 
+![img](https://github.com/nadeem-ahmed-git/Power-BI-Projects/blob/main/Credit%20Card%20Financial%20Dashboard/Credit%20Card%20Customer%20Report.png)
+
 1)	Revenue and Interest:
 i)	The total revenue is 55M with a total interest of 7.8M.
 ii)	The income is 576M.
