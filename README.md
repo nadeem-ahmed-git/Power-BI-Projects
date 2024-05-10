@@ -15,6 +15,8 @@ Insights:
 
 Dashboard 1 - Credit Card Transactions Weekly Report:
 
+![img](https://github.com/nadeem-ahmed-git/Power-BI-Projects/blob/main/Credit%20Card%20Financial%20Dashboard/Credit%20Card%20Transaction%20Report.png)
+
 1)	Revenue and Interest:
 i)	The total revenue is 55M with a total interest of 7.8M from an amount of 45M across 656K counts.
 ii)	Blue cards contribute the most to the revenue and total transactions, followed by Gold, Silver, and Platinum.
